@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	ar "github.com/sergeyfedotov/go-libarchive"
+	ar "github.com/sourcekris/go-libarchive"
 )
 
 type ArchiveReader interface {
